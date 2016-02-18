@@ -1,0 +1,6 @@
+framework module TWGKeyboardObserver {
+  umbrella header "TWGKeyboardObserver-umbrella.h"
+
+  export *
+  module * { export * }
+}

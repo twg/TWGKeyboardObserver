@@ -1,0 +1,14 @@
+PODS:
+  - TWGKeyboardObserver (0.1.0)
+
+DEPENDENCIES:
+  - TWGKeyboardObserver (from `../`)
+
+EXTERNAL SOURCES:
+  TWGKeyboardObserver:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TWGKeyboardObserver: d4297b45908dfc36feb9522531545de45baa3697
+
+COCOAPODS: 0.39.0
