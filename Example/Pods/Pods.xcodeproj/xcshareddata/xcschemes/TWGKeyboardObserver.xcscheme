@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4E5B619A654D527D4B54CBAD'
+               BlueprintIdentifier = '05487B5AA686FE84F42572C1'
                BlueprintName = 'TWGKeyboardObserver'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'TWGKeyboardObserver.framework'>

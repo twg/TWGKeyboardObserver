@@ -1,15 +1,15 @@
 {
   "name": "TWGKeyboardObserver",
   "version": "0.1.0",
-  "summary": "A short description of TWGKeyboardObserver.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/TWGKeyboardObserver",
+  "summary": "Utility for monitoring the status of the iOS keyboard.",
+  "description": "TWGKeyboardObserver allows you to easily monitor the status of the iOS keyboard and respond to changes.",
+  "homepage": "https://github.com/twg/TWGKeyboardObserver",
   "license": "MIT",
   "authors": {
-    "Brian Gilham": "me@briangilham.com"
+    "Brian Gilham": "brian@twg.ca"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/TWGKeyboardObserver.git",
+    "git": "https://github.com/twg/TWGKeyboardObserver.git",
     "tag": "0.1.0"
   },
   "platforms": {

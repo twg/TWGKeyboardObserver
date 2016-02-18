@@ -4,6 +4,5 @@ use_frameworks!
 
 target 'TWGKeyboardObserver_Tests', :exclusive => true do
   pod 'TWGKeyboardObserver', :path => '../'
-
-  
+  pod 'OCMock'
 end

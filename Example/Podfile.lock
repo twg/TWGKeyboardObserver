@@ -1,7 +1,9 @@
 PODS:
+  - OCMock (3.2.2)
   - TWGKeyboardObserver (0.1.0)
 
 DEPENDENCIES:
+  - OCMock
   - TWGKeyboardObserver (from `../`)
 
 EXTERNAL SOURCES:
@@ -9,6 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TWGKeyboardObserver: d4297b45908dfc36feb9522531545de45baa3697
+  OCMock: 18c9b7e67d4c2770e95bb77a9cc1ae0c91fe3835
+  TWGKeyboardObserver: bac20b5303116b236af8e980123eac4b2a734541
 
 COCOAPODS: 0.39.0
