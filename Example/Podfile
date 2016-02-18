@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+
+target 'TWGKeyboardObserver_Tests', :exclusive => true do
+  pod 'TWGKeyboardObserver', :path => '../'
+
+  
+end
