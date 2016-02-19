@@ -25,7 +25,7 @@ pod "TWGKeyboardObserver"
 
 ## Author
 
-Brian Gilham, me@briangilham.com
+Brian Gilham, brian@twg.ca
 
 ## License
 
