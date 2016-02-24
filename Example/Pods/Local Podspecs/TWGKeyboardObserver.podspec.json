@@ -6,7 +6,7 @@
   "homepage": "https://github.com/twg/TWGKeyboardObserver",
   "license": "MIT",
   "authors": {
-    "Brian Gilham": "brian@twg.ca"
+    "The Working Group": "mobile@twg.ca"
   },
   "source": {
     "git": "https://github.com/twg/TWGKeyboardObserver.git",
